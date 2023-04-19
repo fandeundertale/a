@@ -1,0 +1,21 @@
+body{
+    background-color:green;
+    text-align: center;
+    font-size: 20px;
+  }
+  
+  .sp 
+  {
+    text-size-adjust: 25px;
+   font-family: 'Courier New';
+  }
+  .di
+  {
+    text-size-adjust: 25px;
+    font-family: 'Franklin Gothic Medium';
+  }
+  
+  img
+  {
+    width: 20%;
+  }
